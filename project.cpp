@@ -1,4 +1,3 @@
-Data Sturcture Project
 
 #include <iostream>
 #include <vector>
